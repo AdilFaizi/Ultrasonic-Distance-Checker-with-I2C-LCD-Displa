@@ -12,7 +12,10 @@ HC-SR04 Ultrasonic Sensor
 
 Jumper wires & breadboard
 
+Circuit Schematic
 ![alt text](Schematic.png)
+
+Hardware Visibility in PCB Screenshot:Off
 ![alt text](PCB.png)
 
 #Features:
@@ -33,5 +36,5 @@ The duration of the echo is measured, and the distance is calculated using the s
 
 The distance is then displayed on the LCD every 3 seconds.
 
-
+Presentation of Model
 ![alt text](Model.png)
