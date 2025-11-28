@@ -12,6 +12,9 @@ HC-SR04 Ultrasonic Sensor
 
 Jumper wires & breadboard
 
+![alt text](Schematic.png)
+![alt text](PCB.png)
+
 #Features:
 
 Measures distance using the HC-SR04 ultrasonic sensor.
@@ -30,3 +33,5 @@ The duration of the echo is measured, and the distance is calculated using the s
 
 The distance is then displayed on the LCD every 3 seconds.
 
+
+![alt text](Model.png)
