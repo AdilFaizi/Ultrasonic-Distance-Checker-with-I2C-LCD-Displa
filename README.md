@@ -38,6 +38,7 @@ The duration of the echo is measured, and the distance is calculated using the s
 
 The distance is then displayed on the LCD every 3 seconds.
 
-Presentation of Model
+Presentation of Model:
+Raspberry Pi Nano used instead of Arduino Nano for the sake of convenience 
 
 ![alt text](Model.png)
