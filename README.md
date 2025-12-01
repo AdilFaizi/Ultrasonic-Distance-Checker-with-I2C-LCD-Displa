@@ -1,6 +1,6 @@
-# Ultrasonic-Distance-Checker-with-I2C-LCD-Displa
+# Ultrasonic-Distance-Checker-with-I2C-LCD-Display
 
-This project implements an ultrasonic distance measurement system using an Arduino Uno R4 Minima and a 1602 I2C LCD display. The system measures distances in centimeters and displays real-time readings on the LCD screen.
+This project implements an ultrasonic distance measurement system using an Arduino Uno R4 Minima, HCSR04 Ultrasonic Ranging Module, and a 1602 I2C LCD display. The system measures distances in centimeters and displays real-time readings on the LCD screen.
 
 #Components Used:
 
